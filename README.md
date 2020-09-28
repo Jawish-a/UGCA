@@ -16,3 +16,7 @@ the student should be able to login using his/her student ID provided by the edu
 2. run the chat server
 3. use the mobile app
 
+# Links
+* web app https://github.com/Jawish-a/UGCA-webapp
+* chatserver https://github.com/Jawish-a/UGCA-chatserver
+* mobile app: https://github.com/Jawish-a/UGCA-mobile-app
