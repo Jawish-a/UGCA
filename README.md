@@ -12,7 +12,7 @@ the student should be able to login using his/her student ID provided by the edu
 
 ### How to make it run?
 
-1- first you must have a webapp 
-2- run the chat server
-3- use the mobile app
+1. first you must have a webapp 
+2. run the chat server
+3. use the mobile app
 
